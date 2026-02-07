@@ -1,0 +1,12 @@
+Input file: Tests/TC3.txt
+Valid numbers: 12624
+Invalid items: 0
+
+Count: 12624
+Mean: 249.776220
+Median: 249.000000
+Mode: 94.0 (frequency=40)
+Standard deviation: 145.317850
+Variance: 21118.950394
+
+Elapsed time (s): 0.003365

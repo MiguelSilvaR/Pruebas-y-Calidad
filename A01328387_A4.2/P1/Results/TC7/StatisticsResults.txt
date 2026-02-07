@@ -1,0 +1,16 @@
+Input file: Tests/TC7.txt
+Valid numbers: 12767
+Invalid items: 2
+
+Invalid data (execution continued):
+  - Line 183: invalid number 'ABBA'
+  - Line 229: invalid number 'ERROR'
+
+Count: 12769
+Mean: 247467395499714904064.000000
+Median: 246640973074290016256.000000
+Mode: No mode (all values appear once).
+Standard deviation: 144605647009847033856.000000
+Variance: 20912431153806321107417444778947884613632.000000
+
+Elapsed time (s): 0.003329

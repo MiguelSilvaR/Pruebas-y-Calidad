@@ -1,0 +1,12 @@
+Input file: Tests/TC6.txt
+Valid numbers: 3000
+Invalid items: 0
+
+Count: 3000
+Mean: 187906599279774728192.000000
+Median: 188008049965542998016.000000
+Mode: No mode (all values appear once).
+Standard deviation: 107382050173809999872.000000
+Variance: 11534749616069338239761958751339425038336.000000
+
+Elapsed time (s): 0.000901

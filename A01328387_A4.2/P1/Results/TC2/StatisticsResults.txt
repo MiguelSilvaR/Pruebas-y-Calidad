@@ -1,0 +1,12 @@
+Input file: Tests/TC2.txt
+Valid numbers: 1977
+Invalid items: 0
+
+Count: 1977
+Mean: 250.784016
+Median: 247.000000
+Mode: 230.0 (frequency=11)
+Standard deviation: 144.171319
+Variance: 20795.888044
+
+Elapsed time (s): 0.000519

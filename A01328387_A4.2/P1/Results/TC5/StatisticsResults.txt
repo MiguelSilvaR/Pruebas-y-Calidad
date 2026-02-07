@@ -1,0 +1,18 @@
+Input file: Tests/TC5.txt
+Valid numbers: 307
+Invalid items: 4
+
+Invalid data (execution continued):
+  - Line 5: invalid number 'ABA'
+  - Line 155: invalid number '23,45'
+  - Line 232: invalid number '11;54'
+  - Line 239: invalid number 'll'
+
+Count: 311
+Mean: 241.495114
+Median: 241.000000
+Mode: [11.0, 19.0, 46.0, 56.0, 64.0, 76.0, 96.0, 166.0, 170.0, 211.0, 215.0, 268.0, 277.0, 278.0, 290.0, 368.0, 375.0, 393.0, 466.0] (frequency=3)
+Standard deviation: 145.464848
+Variance: 21229.172362
+
+Elapsed time (s): 0.000220

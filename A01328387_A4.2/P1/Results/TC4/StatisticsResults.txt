@@ -1,0 +1,12 @@
+Input file: Tests/TC4.txt
+Valid numbers: 12624
+Invalid items: 0
+
+Count: 12624
+Mean: 149.002673
+Median: 147.750000
+Mode: 123.75 (frequency=36)
+Standard deviation: 130.414420
+Variance: 17009.268219
+
+Elapsed time (s): 0.003136

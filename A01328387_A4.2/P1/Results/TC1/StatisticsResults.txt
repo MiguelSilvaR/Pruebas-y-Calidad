@@ -1,0 +1,12 @@
+Input file: Tests/TC1.txt
+Valid numbers: 400
+Invalid items: 0
+
+Count: 400
+Mean: 242.320000
+Median: 239.500000
+Mode: [170.0, 393.0] (frequency=5)
+Standard deviation: 145.258107
+Variance: 21152.799599
+
+Elapsed time (s): 0.000206

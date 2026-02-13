@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+# pylint: disable=invalid-name
+# !/usr/bin/env python3
 """computeSales.py
 
 Compute the total cost for all sales records, given:
@@ -123,6 +124,7 @@ def _iter_sales_records(sales_data: Any) -> Iterable[Dict[str, Any]]:
             )
             continue
         yield rec
+    return None
 
 
 def compute_total_cost(

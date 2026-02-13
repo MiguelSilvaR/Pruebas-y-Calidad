@@ -1,0 +1,12 @@
+Compute Sales Results
+------------------------------------------------------------
+Price catalogue: Tests/TC1/TC1.ProductList.json
+Sales record:    Tests/TC1/TC1.Sales.json
+
+Records processed: 46
+Valid records:     46
+Errors:            0
+
+TOTAL: $2,481.86
+Elapsed time: 0.000283 s
+------------------------------------------------------------

@@ -4,6 +4,6 @@
     "name": "Test",
     "location": "MX",
     "total_rooms": 10,
-    "available_rooms": 10
+    "available_rooms": 9
   }
 ]

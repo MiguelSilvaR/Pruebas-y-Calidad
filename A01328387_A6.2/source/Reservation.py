@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import json
 from dataclasses import dataclass, asdict
-from datetime import datetime
+from datetime import datetime, UTC
 from typing import Dict, List, Optional
 
 from .Customers import Customers
@@ -14,7 +14,7 @@ def _print_data_error(message: str) -> None:
 
 
 def _utc_iso() -> str:
-    return datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+    return datetime.now(UTC).replace(microsecond=0).isoformat().replace("+00:00", "Z")
 
 
 def _safe_load_list(path: str) -> List[dict]:

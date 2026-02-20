@@ -5,8 +5,8 @@ from dataclasses import dataclass, asdict
 from datetime import datetime
 from typing import Dict, List, Optional
 
-from Customers import Customers
-from Hotels import Hotels
+from .Customers import Customers
+from .Hotels import Hotels
 
 
 def _print_data_error(message: str) -> None:

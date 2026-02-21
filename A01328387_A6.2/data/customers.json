@@ -3,5 +3,10 @@
     "customer_id": "id",
     "full_name": "Miguel",
     "email": "a@a.com"
+  },
+  {
+    "customer_id": "C1",
+    "full_name": "Miguel Silva",
+    "email": "miguel@test.com"
   }
 ]

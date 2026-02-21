@@ -12,9 +12,9 @@ import os
 from dataclasses import dataclass
 from typing import Callable, Dict, Optional
 
-from source.Customers import Customers
-from source.Hotels import Hotels
-from source.Reservation import Reservation
+from source.customers import Customers
+from source.hotels import Hotels
+from source.reservation import Reservation
 
 
 DATA_FILES = ("hotels.json", "customers.json", "reservations.json")
